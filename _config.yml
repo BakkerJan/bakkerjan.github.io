@@ -41,10 +41,8 @@ social:
   email: info@janbakker.tech # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/janbakker_
-    - https://github.com/bakkerjan
-    - https://www.linkedin.com/in/jan-bakker
-    - https://aka.ms/janbakker
+    #- https://x.com/janbakker_
+    #- https://github.com/bakkerjan
 
 # Site Verification Settings
 webmaster_verifications:
