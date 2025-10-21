@@ -22,7 +22,7 @@ By excluding the user or app, it will be assigned with one of the attributes. Wo
 
 Now, here is the issue. The docs says that the security attribute defenition should be created as of type **string**.
 
-![](images/image-53.png)
+![](../images/image-53.png)
 
 Guess what is created? The data type is of type boolean instead!
 
