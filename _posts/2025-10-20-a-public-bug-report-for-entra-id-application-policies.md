@@ -9,7 +9,7 @@ I've spent the last couple of nights trying out this new feature in Entra ID: ap
 
 According to the docs:  
   
-Sometimes, exceptions need to be granted to the user or service creating or modifying the application. For example, imagine an automated process in your organization periodically creates applications and sets passwords on them. You want to block the new passwords in your organization, but you don't want to break this automated process while you're working on updating it. [Application exceptions](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/configure-app-management-policies?tabs=graph#grant-an-exception-to-an-application) wouldn't work in this case, because the apps being created/updated don't exist yet! Instead, you can apply an exception to the process itself.
+Sometimes, exceptions need to be granted to the user or service creating or modifying the application. For example, imagine an automated process in your organization periodically creates applications and sets passwords on them. You want to block the new passwords in your organization, but you don't want to break this automated process while you're working on updating it. [Application exceptions](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/configure-app-management-policies) wouldn't work in this case, because the apps being created/updated don't exist yet! Instead, you can apply an exception to the process itself.
 
 Well, I've tried that out, and it did not work. I've first added my admin account as exclusion and tried using Graph Explorer. Did not work. Then I built a Logic App, granted this exclusion to the managed identity, but this also failed.
 
