@@ -4,7 +4,7 @@ date: 2025-10-20
 categories: 
   - "entra"
   - "security"
-Image:
+image:
   path:  /images/pexels-ekamelev-1126775.jpg
   alt: "Test"
 ---
