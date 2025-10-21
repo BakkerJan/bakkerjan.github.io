@@ -1,10 +1,6 @@
 ---
 title: "A public bug report for Entra ID application policies"
-date: 2025-10-20
-categories: 
-  - "entra"
-  - "security"
-coverImage: "pexels-ekamelev-1126775.jpg"
+layout: post
 ---
 
 I've spent the last couple of nights trying out this new feature in Entra ID: application policies. I've already written two ([1](https://janbakker.tech/no-your-nhis-cant-use-passwords-either/),[2](https://janbakker.tech/a-closer-look-at-entra-application-policies-to-govern-secrets-and-certificates/)) blogposts about it, but just when I thought I was done, here's another finding that really blows my mind. Hear me out.
