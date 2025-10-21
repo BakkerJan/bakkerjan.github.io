@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "security"
 Image:
-  path:  "/images/pexels-ekamelev-1126775.jpg"
+  path:  /images/pexels-ekamelev-1126775.jpg
   alt: "Test"
 ---
 
