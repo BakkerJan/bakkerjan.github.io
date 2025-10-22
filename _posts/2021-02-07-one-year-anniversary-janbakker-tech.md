@@ -1,7 +1,7 @@
 ---
 title: "One year anniversary JanBakker.tech"
 date: 2021-02-07
-image: "/assests/images/pexels-anna-shvets-3905652-scaled.jpg"
+image: "/assets/images/pexels-anna-shvets-3905652-scaled.jpg"
 ---
 
 This month, janbakker.tech becomes one year old. On February 16th 2020, the first article went live. Shortly after that, the world was going into lockdown. Time to look back and share some experiences.

@@ -4,7 +4,7 @@ date: 2022-07-04
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/IMG_3920-scaled.jpg"
+image: "/assets/images/IMG_3920-scaled.jpg"
 ---
 
 This news seems to be kept under the radar a little bit, but I wanted to point out a new feature in Azure AD that might help out some organizations with their Azure MFA implementations. Take a look at this list of supported authentication methods, and notice that [passwordless methods](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless) can also be used as a form of verification for Azure AD Multi-Factor Authentication:

@@ -4,7 +4,7 @@ date: 2021-10-28
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/IMG_3270bbb.png"
+image: "/assets/images/IMG_3270bbb.png"
 ---
 
 ##### Update 26-11-2021

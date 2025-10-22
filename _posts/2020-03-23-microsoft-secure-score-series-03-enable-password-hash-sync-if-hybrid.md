@@ -14,7 +14,7 @@ tags:
   - "passwords"
   - "phs"
   - "sso"
-image: "/assests/images/azure-ad-authn-image2.png"
+image: "/assets/images/azure-ad-authn-image2.png"
 ---
 
 ## Enable Password Hash Sync if hybrid

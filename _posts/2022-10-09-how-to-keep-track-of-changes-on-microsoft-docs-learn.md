@@ -4,7 +4,7 @@ date: 2022-10-09
 categories: 
   - "entra"
   - "logic-apps"
-image: "/assests/images/image-29.png"
+image: "/assets/images/image-29.png"
 ---
 
 When working with cloud services like Microsoft 365 or Azure Active Directory in particular, it's very important to stay on top of new features and/or product changes. As you might know, the documentation for these services is stored on GitHub. This is where those changes will often reflect.

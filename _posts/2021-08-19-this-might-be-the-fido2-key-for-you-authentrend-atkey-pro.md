@@ -3,7 +3,7 @@ title: "This might be the FIDO2 key for you! Authentrend ATKey.Pro"
 date: 2021-08-19
 categories: 
   - "security"
-image: "/assests/images/AuthenTrend-Website-B1-4.png"
+image: "/assets/images/AuthenTrend-Website-B1-4.png"
 ---
 
 In the past few years, I tried different types of FIDO2 keys, from different vendors. And picking your FIDO2 key might seem simple, but I think it's like picking a new phone: some many options! They come in all sizes and colors, with or without biometrics, and even as wearables like rings or bracelets.

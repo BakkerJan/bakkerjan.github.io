@@ -12,7 +12,7 @@ tags:
   - "risk-detections"
   - "risky-users"
   - "sign-in-risk"
-image: "/assests/images/cyclone-fence-in-shallow-photography-951408-2.jpg"
+image: "/assets/images/cyclone-fence-in-shallow-photography-951408-2.jpg"
 ---
 
 This blog is about Azure AD Identity Protection and Conditional Access, and how these two features are working together. This is not my first article on this subject. (neither my last) In previous blogs, I covered the [sign-in risk](https://janbakker.tech/microsoft-secure-score-series-07-turn-on-sign-in-risk-policy/) and [user risk](https://janbakker.tech/microsoft-secure-score-series-11-turn-on-user-risk-policy/) policies as part of the Secure Score Series, and in my blog, about [Azure Multifactor Authentication](https://janbakker.tech/microsoft-secure-score-series-04-ensure-all-users-can-complete-multi-factor-authentication-for-secure-access/) I talked about Azure AD Identity Protection, and how it can be used to roll out MFA in your organization.

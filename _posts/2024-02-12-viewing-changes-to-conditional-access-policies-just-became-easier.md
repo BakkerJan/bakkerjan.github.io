@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "knowledgebase"
   - "security"
-image: "/assests/images/image-33.png"
+image: "/assets/images/image-33.png"
 ---
 
 Today, a quick tip for all Entra admins out there. Conditional Access policies can be subject to change. When a policy is changed, its not very easy to see what changed. From the audit logs, this is how it looks:

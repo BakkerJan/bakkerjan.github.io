@@ -10,7 +10,7 @@ tags:
   - "network-protection"
   - "web-content-filtering"
   - "windows-10"
-image: "/assests/images/msedge_3hIwil5Tb4.png"
+image: "/assets/images/msedge_3hIwil5Tb4.png"
 ---
 
 **Update 7-7-2020: [Microsoft anounced](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445#.XwNfwYSQZOc.linkedin) that you no longer need a Cyren subscription.** Web content filtering will be offered as part of Microsoft Defender ATP without any additional partner licensing. Now you get the benefits of web content filtering without the need for additional agents, hardware, and costs.  

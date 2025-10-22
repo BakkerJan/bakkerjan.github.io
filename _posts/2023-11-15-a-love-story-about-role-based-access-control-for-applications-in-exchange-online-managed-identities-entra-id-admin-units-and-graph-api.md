@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "logic-apps"
   - "security"
-image: "/assests/images/pexels-heiner-217250-scaled.jpg"
+image: "/assets/images/pexels-heiner-217250-scaled.jpg"
 ---
 
 I've learned something new today. Hear me out.

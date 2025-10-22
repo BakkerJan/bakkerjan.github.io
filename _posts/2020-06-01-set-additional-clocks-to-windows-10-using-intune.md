@@ -11,7 +11,7 @@ tags:
   - "time"
   - "timezone"
   - "win32"
-image: "/assests/images/art-city-clock-clock-face-277458-scaled.jpg"
+image: "/assets/images/art-city-clock-clock-face-277458-scaled.jpg"
 ---
 
 When you work for an international company, or you have to deliver support in other timezones, you might find yourself Googling for time in different timezones from time to time. At least I did.

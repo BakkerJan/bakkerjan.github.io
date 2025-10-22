@@ -11,7 +11,7 @@ tags:
   - "mfa"
   - "powershell"
   - "results"
-image: "/assests/images/image-15.png"
+image: "/assets/images/image-15.png"
 ---
 
 You might have seen the [sample script](https://docs.microsoft.com/en-us/samples/azure-samples/azure-mfa-authentication-method-analysis/azure-mfa-authentication-method-analysis/), created by the Microsoft community, to run some analysis on your Azure MFA authentication methods. This script can be used to make recommendations on how to improve each user's MFA configuration.

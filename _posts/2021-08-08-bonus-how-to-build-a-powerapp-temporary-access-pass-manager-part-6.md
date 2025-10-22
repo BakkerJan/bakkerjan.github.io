@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "power-platform"
   - "security"
-image: "/assests/images/1628535438.png"
+image: "/assets/images/1628535438.png"
 ---
 
 ## (Bonus) Part 6: Integrate with Power Automate

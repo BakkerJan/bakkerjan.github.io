@@ -3,7 +3,7 @@ title: "Use Requestor information in Entra ID Access Packages as input for Custo
 date: 2024-12-06
 categories: 
   - "entra"
-image: "/assests/images/explorer_Zi6xxgjNFL.png"
+image: "/assets/images/explorer_Zi6xxgjNFL.png"
 ---
 
 In a [previous](https://janbakker.tech/request-temporary-access-pass-on-behalf-of-others-via-entra-id-governance-access-package/) blog post, I explained a proof of concept in which we use Entra ID Governance Access Packages to request a Temporary Access Pass on behalf of other users.

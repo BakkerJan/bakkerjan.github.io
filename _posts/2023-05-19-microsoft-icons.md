@@ -3,7 +3,7 @@ title: "Microsoft icons"
 date: 2023-05-19
 categories: 
   - "knowledgebase"
-image: "/assests/images/pexels-mateo-davila-12811425-scaled.jpg"
+image: "/assets/images/pexels-mateo-davila-12811425-scaled.jpg"
 ---
 
 That's the post for today. Just a bunch of sources with icons from Microsoft 365, Azure, Azure AD, and other Microsoft-related services. This can be super handy if you need high-quality images for your excellent slides and documentation. Enjoy!

@@ -14,7 +14,7 @@ tags:
   - "deny"
   - "office-365"
   - "permissions"
-image: "/assests/images/ethnic-woman-doing-stop-gesture-with-palm-at-camera-3880939-scaled.jpg"
+image: "/assets/images/ethnic-woman-doing-stop-gesture-with-palm-at-camera-3880939-scaled.jpg"
 ---
 
 ## Do not allow users to grant consent to unmanaged applications

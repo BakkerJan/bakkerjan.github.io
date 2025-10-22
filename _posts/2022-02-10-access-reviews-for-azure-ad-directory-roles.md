@@ -4,7 +4,7 @@ date: 2022-02-10
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-pixabay-416322.jpg"
+image: "/assets/images/pexels-pixabay-416322.jpg"
 ---
 
 This blog post is for all those organizations out there with stale, overprivileged accounts having standing access to Azure AD roles, that nobody knows about, far away from the HR systems and on/offboarding processes. This is often a huge problem and the elephant in the (security) room. Now, what can we do about it?

@@ -13,7 +13,7 @@ tags:
   - "portal"
   - "self-service"
   - "sspr"
-image: "/assests/images/combined-registration-portal.png"
+image: "/assets/images/combined-registration-portal.png"
 ---
 
 #### **This post is outdated.** There is a [new way](https://janbakker.tech/goodbye-legacy-sspr-and-mfa-settings-hello-authentication-methods-policies/) to manage authentication methods

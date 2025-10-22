@@ -4,7 +4,7 @@ date: 2023-10-22
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/5caeb71d-a756-4e5c-8b5c-924f653d7bda.jpeg"
+image: "/assets/images/5caeb71d-a756-4e5c-8b5c-924f653d7bda.jpeg"
 ---
 
 [Only a few months](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new#public-preview---device-bound-passkeys-as-an-authentication-method) until Microsoft Entra ID will support device-bound passkeys stored on computers and mobile devices as an authentication method in preview, in addition to the existing support for FIDO2 security keys. This enables your users to perform phishing-resistant authentication using the devices that they already have.  

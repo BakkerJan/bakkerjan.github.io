@@ -3,7 +3,7 @@ title: "Review guest access across Microsoft 365 groups (teams)"
 date: 2021-03-07
 categories: 
   - "entra"
-image: "/assests/images/pexels-andrea-piacquadio-3933690.jpg"
+image: "/assets/images/pexels-andrea-piacquadio-3933690.jpg"
 ---
 
 In a previous blog post I wrote about [Azure AD Access Reviews](https://janbakker.tech/active-directory-identity-governance-access-reviews/), and how they can help you in various use-cases. One of them is taking control over your guest accounts in Azure AD. You can select Microsoft 365 groups (or teams if you will) to review the current guest users. Microsoft released a new feature within Access Reviews to select **_all Microsoft 365 groups with guest users_**. Using this method, you don't have to create an access review for each group, but this will take care of all existing and new Microsoft 365 groups in your environment.

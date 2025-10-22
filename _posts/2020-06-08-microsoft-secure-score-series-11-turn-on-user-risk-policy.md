@@ -12,7 +12,7 @@ tags:
   - "risk"
   - "risky"
   - "sign-in-risk"
-image: "/assests/images/black-and-grey-keys-792034-scaled.jpg"
+image: "/assets/images/black-and-grey-keys-792034-scaled.jpg"
 ---
 
 ## Turn on user risk policy

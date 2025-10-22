@@ -4,7 +4,7 @@ date: 2025-10-11
 categories: 
   - "entra"
   - "knowledgebase"
-image: "/assests/images/image-19-scaled.png"
+image: "/assets/images/image-19-scaled.png"
 ---
 
 This is a knowledge base item. Hope it will help you someday.

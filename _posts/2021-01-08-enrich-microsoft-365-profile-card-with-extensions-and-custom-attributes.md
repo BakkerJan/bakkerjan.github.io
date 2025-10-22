@@ -3,7 +3,7 @@ title: "Enrich Microsoft 365 profile card with extensions and custom attributes"
 date: 2021-01-08
 categories: 
   - "entra"
-image: "/assests/images/pexels-cottonbro-5077055-1.jpg"
+image: "/assets/images/pexels-cottonbro-5077055-1.jpg"
 ---
 
 Microsoft 365 is equipped with a very nice, but underestimated feature: [Profile cards](https://support.microsoft.com/en-us/office/profile-cards-in-microsoft-365-e80f931f-5fc4-4a59-ba6e-c1e35a85b501). I'm sure you know Microsoft Delve, and how it can enrich your Office 365 profile with relevant information such as hobbies, working hours, skills, and your birthday. Next to that, you can find information about recent projects, and the people that you worked with.

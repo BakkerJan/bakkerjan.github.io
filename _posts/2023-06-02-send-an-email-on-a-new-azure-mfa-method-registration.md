@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "power-platform"
   - "security"
-image: "/assests/images/pexels-ivan-samkov-4240545-scaled.jpg"
+image: "/assets/images/pexels-ivan-samkov-4240545-scaled.jpg"
 ---
 
 I've done quite some Azure MFA projects over time (and counting), and as we mainly focus on the technical side, there are also practical sides to consider. Every project has its own approach and challenges, and more importantly: the user is impacted more or less, and that asks for some guidance.

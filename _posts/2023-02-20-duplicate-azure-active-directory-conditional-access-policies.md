@@ -4,7 +4,7 @@ date: 2023-02-20
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-dids-5782237-scaled.jpg"
+image: "/assets/images/pexels-dids-5782237-scaled.jpg"
 ---
 
 In this post, we look at managing Conditional Access policies and, in particular, duplicating existing policies. This can be super handy when you:

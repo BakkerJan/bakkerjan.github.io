@@ -3,7 +3,7 @@ title: "Entra ID Dynamic Groups - Direct reports of a manager"
 date: 2024-05-27
 categories: 
   - "entra"
-image: "/assests/images/pexels-fauxels-3184302-scaled.jpg"
+image: "/assets/images/pexels-fauxels-3184302-scaled.jpg"
 ---
 
 Here's a quick tip that I discovered only recently. A nice, somehow hidden feature of Entra ID dynamic groups is the possibility of creating a dynamic group for the reports of a specific manager. When the manager's direct reports change in the future, the group's membership is adjusted automatically.

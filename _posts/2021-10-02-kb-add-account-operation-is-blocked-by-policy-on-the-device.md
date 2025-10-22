@@ -3,7 +3,7 @@ title: "KB - Add account operation is blocked by policy on the device"
 date: 2021-10-02
 categories: 
   - "knowledgebase"
-image: "/assests/images/pexels-brett-sayles-2821220.jpg"
+image: "/assets/images/pexels-brett-sayles-2821220.jpg"
 ---
 
 This is a knowledgebase item. Hope it helps you out someday.

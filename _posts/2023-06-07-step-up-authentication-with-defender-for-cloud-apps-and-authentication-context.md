@@ -5,7 +5,7 @@ categories:
   - "cloud-app-security"
   - "entra"
   - "security"
-image: "/assests/images/pexels-pixabay-417014-scaled.jpg"
+image: "/assets/images/pexels-pixabay-417014-scaled.jpg"
 ---
 
 In this post, I will show you how you can integrate Azure AD's Authentication Context with Defender for Cloud Apps to require step-up authentication for specific scenarios. Step-up authentication allows you to re-evaluate Azure AD Conditional Access policies when users take sensitive actions during a session.

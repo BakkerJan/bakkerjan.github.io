@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "logic-apps"
   - "security"
-image: "/assests/images/pexels-pixabay-35183-scaled.jpg"
+image: "/assets/images/pexels-pixabay-35183-scaled.jpg"
 ---
 
 ## Today's challenge

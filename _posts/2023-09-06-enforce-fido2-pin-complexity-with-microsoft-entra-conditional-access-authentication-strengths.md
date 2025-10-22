@@ -4,7 +4,7 @@ date: 2023-09-06
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-bella-white-622134-scaled.jpg"
+image: "/assets/images/pexels-bella-white-622134-scaled.jpg"
 ---
 
 As you may or may not know, most FIDO2 security keys can be set up with easy PINs like 1111 or 123456. Just like passwords, users tend to come up with easy-to-remember PINs.

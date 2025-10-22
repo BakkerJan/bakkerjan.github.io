@@ -3,7 +3,7 @@ title: "How to restore deleted Entra ID Conditional Access policies and Named Lo
 date: 2025-10-06
 categories: 
   - "entra"
-image: "/assests/images/pexels-steve-850216.jpg"
+image: "/assets/images/pexels-steve-850216.jpg"
 ---
 
 Entra ID Conditional Access policies can now be restored for up to **30 days** after deletion. Next to deleted [users](https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/DeletedUsers/menuId/), [groups](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/DeletedGroups/menuId/Overview), and [apps](https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM), admins can now also restore deleted Conditional Access Policies, Trusted Locations, and Cross Tenant Access Policies. Learn more: [policyDeletableItem resource type - Microsoft Graph beta | Microsoft Learn](https://learn.microsoft.com/en-us/graph/api/resources/policydeletableitem?view=graph-rest-beta)

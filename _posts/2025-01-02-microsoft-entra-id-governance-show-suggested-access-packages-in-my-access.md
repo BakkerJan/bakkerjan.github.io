@@ -3,7 +3,7 @@ title: "Microsoft Entra ID Governance: Show suggested access packages in My Acce
 date: 2025-01-02
 categories: 
   - "entra"
-image: "/assests/images/pexels-olly-3779432-scaled.jpg"
+image: "/assets/images/pexels-olly-3779432-scaled.jpg"
 ---
 
 Today's post is about a new feature in Entra ID's Identity Governance: **_Show suggested access packages in My Access_**.

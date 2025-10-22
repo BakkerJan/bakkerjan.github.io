@@ -4,7 +4,7 @@ date: 2022-01-10
 categories: 
   - "entra"
   - "power-platform"
-image: "/assests/images/pexels-francis-seura-802412.jpg"
+image: "/assets/images/pexels-francis-seura-802412.jpg"
 ---
 
 Did you ever want to act on a change in group membership in Azure AD, for example, when a user is added to or removed from a specific group? I have found an easy way to do this with the use of Power Automate. You can use this for a lot of use-cases.

@@ -3,7 +3,7 @@ title: "ADMX ingestion for Centero Agent and Carillon Client using Intune"
 date: 2022-02-20
 categories: 
   - "knowledgebase"
-image: "/assests/images/1645388901.png"
+image: "/assets/images/1645388901.png"
 ---
 
 This article is about the ADMX templates for Centero Agent and Carillon client, that you can use to configure the settings on your endpoints. Microsoft Endpoint Manager (Intune) is capable of ADMX ingestion, but this process can be complex sometimes. This article will explain the ADMX ingestion and has a couple of examples, on how to handle various settings.

@@ -3,7 +3,7 @@ title: "Evilginx Mastery Course | What I learned"
 date: 2024-11-28
 categories: 
   - "security"
-image: "/assests/images/ms-teams_ujYBLm9ztT.png"
+image: "/assets/images/ms-teams_ujYBLm9ztT.png"
 ---
 
 A couple of years back, I was really struggling to get Evilginx up and running. The main reason was that I had forgotten how to do it by the time I needed an instance for a demo, so it took me hours to spin it up.

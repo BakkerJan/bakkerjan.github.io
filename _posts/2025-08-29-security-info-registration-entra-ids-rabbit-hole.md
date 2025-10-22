@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "knowledgebase"
   - "security"
-image: "/assests/images/pexels-mikebirdy-383557.jpg"
+image: "/assets/images/pexels-mikebirdy-383557.jpg"
 ---
 
 This blog post needs a brief introduction. Bear with me.

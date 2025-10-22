@@ -4,7 +4,7 @@ date: 2025-09-22
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-lilartsy-1325619-scaled.jpg"
+image: "/assets/images/pexels-lilartsy-1325619-scaled.jpg"
 ---
 
 For human identities, going passwordless is becoming pretty standard these days. It looks like passkeys are getting some good traction, and more and more organisations are moving towards passwordless solutions for their workforce.  

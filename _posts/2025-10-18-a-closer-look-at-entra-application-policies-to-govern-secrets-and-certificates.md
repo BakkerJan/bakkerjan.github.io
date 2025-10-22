@@ -4,7 +4,7 @@ date: 2025-10-18
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-thatguycraig000-1467564.jpg"
+image: "/assets/images/pexels-thatguycraig000-1467564.jpg"
 ---
 
 My [latest post](https://janbakker.tech/no-your-nhis-cant-use-passwords-either/) on this topic introduced the new admin interface on Application Policies in Entra ID. Although the APIs had been around for a while, I personally didn't see them being implemented at all. I believe the reason for that is the complexity of the API, in combination with the topic itself. Making sense of enterprise apps and app registrations is a complicated topic on its own. Add authentication and authorization into the mix, and you've got yourself a hot potato that nobody dares to keep in their hands for long.

@@ -3,7 +3,7 @@ title: "The road to Microsoft MVP and beyond"
 date: 2022-10-05
 categories: 
   - "entra"
-image: "/assests/images/FaL7_CgXgAI-0YB.jpg"
+image: "/assets/images/FaL7_CgXgAI-0YB.jpg"
 ---
 
 Today, a slightly different post. I think it's time to step away from the technical stuff for a moment and tell you more about my experiences in the Microsoft tech community so far.

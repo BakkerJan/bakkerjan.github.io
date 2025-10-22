@@ -3,7 +3,7 @@ title: "How to deal with orphaned objects in Azure AD (Connect)"
 date: 2022-07-15
 categories: 
   - "entra"
-image: "/assests/images/pexels-a-koolshooter-5258251-scaled.jpg"
+image: "/assets/images/pexels-a-koolshooter-5258251-scaled.jpg"
 ---
 
 We have done hybrid identity for a couple of years now, and it looks like the vast majority is not going to change that soon. Over the past years, we had different tools to facilitate hybrid identity. When we started this journey, there was no Azure AD Connect. We used tools like Dirsync or FIM/MIM, and that was not always easy. Still today, proper management of Azure AD Connect can be quite complex.

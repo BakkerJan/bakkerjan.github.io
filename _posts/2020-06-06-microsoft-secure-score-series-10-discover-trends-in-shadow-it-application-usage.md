@@ -9,7 +9,7 @@ tags:
   - "cloud-app-security"
   - "cloud-discovery"
   - "shadow-it"
-image: "/assests/images/sample_report.cas-1.png"
+image: "/assets/images/sample_report.cas-1.png"
 ---
 
 ## 10 - Discover trends in shadow IT application usage

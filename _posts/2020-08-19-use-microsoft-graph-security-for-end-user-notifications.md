@@ -12,7 +12,7 @@ tags:
   - "graph-api"
   - "notifications"
   - "power-automate"
-image: "/assests/images/pexels-mentatdgt-1220757.jpg"
+image: "/assets/images/pexels-mentatdgt-1220757.jpg"
 ---
 
 In this short blog post, I want to show how you can use the Microsoft Graph Security to send alerts and notifications to your end-users. I also want to show you that it is super easy to set up. All you need is:

@@ -12,7 +12,7 @@ tags:
   - "conditional-access"
   - "flow"
   - "power-automate"
-image: "/assests/images/police-fun-funny-uniform-33598-scaled.jpg"
+image: "/assets/images/police-fun-funny-uniform-33598-scaled.jpg"
 ---
 
 Last week, I was working on a [new blog for the Secure Score Series](https://janbakker.tech/microsoft-secure-score-series-14-designate-more-than-one-global-admin/) regarding global admin and break glass accounts. I came to the point where I was thinking of possible scenarios that could go wrong with these accounts. What if someone accidentally added these users to a certain group? What if that group would be triggered in some policy or maintenance tasks? A lot of these actions can be discovered using Microsoft Cloud App Security and Azure Monitor. This way, you will be alerted when someone touches the accounts in any way, or if the account is used to sign-in.

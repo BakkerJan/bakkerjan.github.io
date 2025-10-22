@@ -4,7 +4,7 @@ date: 2024-11-20
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/Presentation1-1.png"
+image: "/assets/images/Presentation1-1.png"
 ---
 
 One of the longest-running previews in Entra ID is the support for hardware (OATH) tokens. Hardware tokens can create OTP tokens that can be used to satisfy MFA requirements in Entra ID.

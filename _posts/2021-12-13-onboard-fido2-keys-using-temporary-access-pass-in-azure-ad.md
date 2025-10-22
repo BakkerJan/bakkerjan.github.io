@@ -4,7 +4,7 @@ date: 2021-12-13
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/IMG_3928-scaled-e1639428106559.jpg"
+image: "/assets/images/IMG_3928-scaled-e1639428106559.jpg"
 ---
 
 One of the requirements to use FIDO2 security keys with your Microsoft 365 or Azure Active Directory account is multi-factor authentication. So if the user has not added an authentication method, they need to do that first, in order to add the FIDO2 security key to the account. That is sort of a chicken and egg situation.

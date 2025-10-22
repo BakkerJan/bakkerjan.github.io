@@ -4,7 +4,7 @@ date: 2021-02-12
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/image-13.png"
+image: "/assets/images/image-13.png"
 ---
 
 Privileged Identity Management (PIM) in Azure Active Directory is getting more and more popular. But how do you get started? Like any successful project, it all starts with a good inventory of the current situation. You need to identify the problem before it can be resolved. The problem we are talking about is standing access to high privilege roles. If you are not familiar with PIM, please check out [this blog post](https://janbakker.tech/active-directory-identity-governance-privileged-identity-management/) first.

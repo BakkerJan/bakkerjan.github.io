@@ -3,7 +3,7 @@ title: "KB - SelfServicePasswordReset write-back problem - error hr=80230818"
 date: 2022-02-21
 categories: 
   - "knowledgebase"
-image: "/assests/images/image-18.png"
+image: "/assets/images/image-18.png"
 ---
 
 This is a knowledgebase item. Hope it helps you out someday.

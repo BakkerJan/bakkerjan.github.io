@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "power-platform"
   - "security"
-image: "/assests/images/1628535438.png"
+image: "/assets/images/1628535438.png"
 ---
 
 ## Part 4: Build a custom connector based on the Graph API

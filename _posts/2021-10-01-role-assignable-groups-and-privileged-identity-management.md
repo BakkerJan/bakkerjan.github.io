@@ -4,7 +4,7 @@ date: 2021-10-01
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-christina-morillo-1181317-1.jpg"
+image: "/assets/images/pexels-christina-morillo-1181317-1.jpg"
 ---
 
 I have used this feature from the very beginning, but now that it [reached GA](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new#general-availability---assign-roles-to-azure-active-directory-ad-groups) (General Availability) in August 2021, it seemed like a good moment to talk about Role Assignable groups, and how they can help on our Zero Trust adventure.

@@ -16,7 +16,7 @@ tags:
   - "power-automate"
   - "power-platform"
   - "registered"
-image: "/assests/images/RPA.51e0cbd49adc25e8c3328025126987f0.2.png"
+image: "/assets/images/RPA.51e0cbd49adc25e8c3328025126987f0.2.png"
 ---
 
 ## Azure AD Dynamic Groups

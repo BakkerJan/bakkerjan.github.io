@@ -4,7 +4,7 @@ date: 2022-04-05
 categories: 
   - "entra"
   - "intune"
-image: "/assests/images/pexels-miguel-a-padrinan-2882550.jpg"
+image: "/assets/images/pexels-miguel-a-padrinan-2882550.jpg"
 ---
 
 This quick post will show an easy method to fetch your PowerShell scripts after you have uploaded them using the Intune management portal. Unfortunately, the portal does not provide a UI to download the script content as soon as you hit that save button.

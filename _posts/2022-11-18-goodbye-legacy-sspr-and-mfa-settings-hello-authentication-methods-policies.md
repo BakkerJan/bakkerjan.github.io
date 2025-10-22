@@ -4,7 +4,7 @@ date: 2022-11-18
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-antoni-shkraba-5816307-scaled.jpg"
+image: "/assets/images/pexels-antoni-shkraba-5816307-scaled.jpg"
 ---
 
 I've got some exciting news to share today. Microsoft has launched a public preview called **_"Authentication Methods Policy Convergence."_** I was part of the private preview program, and I'm very happy to see this feature going public. In this post, I will give you a brief introduction to this new feature and explain why this is such a big deal.

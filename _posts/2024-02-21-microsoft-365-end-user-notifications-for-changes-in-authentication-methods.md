@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "logic-apps"
   - "security"
-image: "/assests/images/pexels-mike-bird-191325-scaled.jpg"
+image: "/assets/images/pexels-mike-bird-191325-scaled.jpg"
 ---
 
 When moving away from traditional and weak authentication methods like passwords to stronger ones like Authenticator App and passkeys, it's essential to keep informed when some of these methods change. Organizations moving to modern authentication are facing new challenges around onboarding and recovery of authentication methods, as attackers can also use this to settle in someone's account by simply adding an extra authentication method. Entra ID will log this event, but no out-of-the-box feature informs the user.

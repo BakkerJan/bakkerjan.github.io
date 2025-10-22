@@ -4,7 +4,7 @@ date: 2025-03-07
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/pexels-daisy-anderson-5584278-1.jpg"
+image: "/assets/images/pexels-daisy-anderson-5584278-1.jpg"
 ---
 
 Evilginx is known for capturing user cookies, even if they are secured by MFA methods like SMS, TOTP, push notifications or passwordless phone sign-in. In bootstrap and recovery scenario's, the account will most likely have a Temporary Access Pass enabled, so the user can enroll for strong authentication.

@@ -4,7 +4,7 @@ date: 2020-07-02
 categories: 
   - "secure-score"
   - "security"
-image: "/assests/images/space-grey-ipad-air-with-graph-on-brown-wooden-table-187041-scaled.jpg"
+image: "/assets/images/space-grey-ipad-air-with-graph-on-brown-wooden-table-187041-scaled.jpg"
 ---
 
 ## Set automated notifications for new and trending cloud applications in your organization

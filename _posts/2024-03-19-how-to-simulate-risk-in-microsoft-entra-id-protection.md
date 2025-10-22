@@ -4,7 +4,7 @@ date: 2024-03-19
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/image-2.png"
+image: "/assets/images/image-2.png"
 ---
 
 Entra ID protection is an excellent feature amongst the other services in the Entra Premium P2 license SKU. Microsoft Entra ID Protection detects identity-based risks so that admins can mitigate those risks. Users can also self-mitigate risk.

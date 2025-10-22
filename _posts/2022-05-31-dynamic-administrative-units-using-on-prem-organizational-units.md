@@ -3,7 +3,7 @@ title: "Dynamic Administrative Units using on-prem Organizational Units"
 date: 2022-05-31
 categories: 
   - "entra"
-image: "/assests/images/pexels-serhat-yilmaz-7694464.jpg"
+image: "/assets/images/pexels-serhat-yilmaz-7694464.jpg"
 ---
 
 Gone are the days that I could start a workshop, session, or training with: "Do you know the big difference between Active Directory and Azure Active Directory? Azure AD is flat, where AD is not." Well...... If there is one thing I've learned over the last years: it's hard to do Zero Trust in a flat landscape. Lucky for us, we have Administrative Units nowadays.

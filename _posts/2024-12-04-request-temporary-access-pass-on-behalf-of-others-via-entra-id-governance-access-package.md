@@ -4,7 +4,7 @@ date: 2024-12-04
 categories: 
   - "entra"
   - "security"
-image: "/assests/images/Presentation2.png"
+image: "/assets/images/Presentation2.png"
 ---
 
 While looking at this new feature ([Request access packages on-behalf-of other users (Preview) - Microsoft Entra ID Governance | Microsoft Learn](https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-request-behalf)), an interesting use case popped to mind.

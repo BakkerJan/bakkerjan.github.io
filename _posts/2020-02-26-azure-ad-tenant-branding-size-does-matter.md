@@ -8,7 +8,7 @@ tags:
   - "background-image"
   - "tenant-branding"
   - "tinypng"
-image: "/assests/images/Upcoming-changes-to-the-Azure-AD-signin-experience-1.png"
+image: "/assets/images/Upcoming-changes-to-the-Azure-AD-signin-experience-1.png"
 ---
 
 Earlier today, I read this article from Alex Simons about the [change that is coming to the Azure AD sign-in experience](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/upcoming-changes-to-the-azure-ad-sign-in-experience/ba-p/1185161). In this change the background image of the login screen is being replaced for a smaller one, so the page loads faster. Good news for the low bandwidth offices out there! The article states: _If you’ve configured a custom background image in Company Branding for your tenant there is no change to your users._ That got me thinking.

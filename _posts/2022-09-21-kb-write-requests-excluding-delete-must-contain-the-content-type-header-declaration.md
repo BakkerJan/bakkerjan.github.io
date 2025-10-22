@@ -3,7 +3,7 @@ title: "KB - Write requests (excluding DELETE) must contain the Content-Type hea
 date: 2022-09-21
 categories: 
   - "knowledgebase"
-image: "/assests/images/pexels-mikhail-nilov-7534781.jpg"
+image: "/assets/images/pexels-mikhail-nilov-7534781.jpg"
 ---
 
 This is a knowledgebase item. I hope it helps you out someday.

@@ -16,7 +16,7 @@ tags:
   - "logic-app"
   - "power-query"
   - "powerbi"
-image: "/assests/images/Graph-API-Logic-Apps-PowerBI-5.png"
+image: "/assets/images/Graph-API-Logic-Apps-PowerBI-5.png"
 ---
 
 Some things in the modern connected world seem so common that you just assume it's possible by nature. Getting your Microsoft Graph API data into Microsoft Power BI for example. That must be easy peasy right? Well....

@@ -12,7 +12,7 @@ tags:
   - "encryption"
   - "protection"
   - "unmanaged-devices"
-image: "/assests/images/pexels-artem-beliaikin-912005.jpg"
+image: "/assets/images/pexels-artem-beliaikin-912005.jpg"
 ---
 
 Protect your files on unmanaged devices
