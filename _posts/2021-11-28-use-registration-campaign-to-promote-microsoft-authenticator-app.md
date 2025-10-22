@@ -4,7 +4,7 @@ date: 2021-11-28
 categories: 
   - "entra"
   - "security"
-coverImage: "2edit-pexels-andrea-piacquadio-3758104.jpg"
+image: "/assests/images/2edit-pexels-andrea-piacquadio-3758104.jpg"
 ---
 
 With all the [new improvements](https://janbakker.tech/enable-location-information-and-code-match-for-azure-mfa/) to the Microsoft Authenticator App, this seems a good time to highlight a new capability in Azure AD: **Registration Campain**, also known as the [nudge feature.](https://aka.ms/nudgedoc) Also, organizations [should move away from phone transports for authentication.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/it-s-time-to-hang-up-on-phone-transports-for-authentication/ba-p/1751752) If your users use text (SMS) for second-factor authentication, they have very little context, and therefore might be confusing. On top of that, attackers use SIM jacking techniques to bypass those phone methods.

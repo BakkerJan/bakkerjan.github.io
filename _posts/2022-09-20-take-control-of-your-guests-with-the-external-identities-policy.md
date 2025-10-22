@@ -3,7 +3,7 @@ title: "Take control of your guests with the External Identities Policy"
 date: 2022-09-20
 categories: 
   - "entra"
-coverImage: "pexels-andrea-piacquadio-3771110-scaled.jpg"
+image: "/assests/images/pexels-andrea-piacquadio-3771110-scaled.jpg"
 ---
 
 Today we take a look at the brand new External Identities Policy in Azure AD. This new policy controls whether external users can leave the guest Azure AD tenant via self-service controls. By default, guests in Azure AD can leave your organization whenever they want, using the [MyAccount](https://myaccount.microsoft.com/organizations) portal.

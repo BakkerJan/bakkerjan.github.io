@@ -4,7 +4,7 @@ date: 2025-02-26
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-tima-miroshnichenko-6474463-1.jpg"
+image: "/assests/images/pexels-tima-miroshnichenko-6474463-1.jpg"
 ---
 
 As passkeys get more traction in Microsoft 365, more and more companies are looking to strengthen their identity posture by enrolling passkeys for their workforce. Most of the time, starting with IT pros/DevOps workers, but also for their Information and Frontline Workers. Microsoft even has specific guidance for each persona: [Considerations for specific personas in a phishing-resistant passwordless authentication deployment in Microsoft Entra ID - Microsoft Entra ID | Microsoft Learn](https://learn.microsoft.com/en-us/entra/identity/authentication/how-to-plan-persona-phishing-resistant-passwordless-authentication)

@@ -4,7 +4,7 @@ date: 2024-08-18
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-olly-3771074-scaled.jpg"
+image: "/assests/images/pexels-olly-3771074-scaled.jpg"
 ---
 
 In case you didn't get the latest memo, Microsoft is tightening the security around the Azure and Microsoft 365 admin portals by enforcing multifactor authentication for all interactive sign-ins. In this post, I will try to answer all the questions about this change, as there seem to be a lot of questions on social media lately. If you still have questions after reading this post (which I'm sure you have), please reach out so I can add your Q&A to the post. Here we go.

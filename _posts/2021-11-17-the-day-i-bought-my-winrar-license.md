@@ -1,7 +1,7 @@
 ---
 title: "The day I bought my WinRAR license"
 date: 2021-11-17
-coverImage: "PHOTO-2021-11-17-10-57-15.jpg"
+image: "/assests/images/PHOTO-2021-11-17-10-57-15.jpg"
 ---
 
 This post is about WinRAR. We all know WinRAR for it's never expiring trial period and the annoying pop-up that we have massively ignored for decades now. At least, in the personal space. I think there are not that many people that bought a WinRAR license for their personal computer, out of principles, guilt, or even accidentally. Including me. I have never owned a WinRAR license myself.

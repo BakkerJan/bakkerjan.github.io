@@ -4,7 +4,7 @@ date: 2022-05-01
 categories: 
   - "entra"
   - "knowledgebase"
-coverImage: "pexels-cup-of-couple-7657741.jpg"
+image: "/assests/images/pexels-cup-of-couple-7657741.jpg"
 ---
 
 This is a knowledgebase item. Hope it helps you out someday.

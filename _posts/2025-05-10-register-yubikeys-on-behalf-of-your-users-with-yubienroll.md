@@ -4,7 +4,7 @@ date: 2025-05-10
 categories: 
   - "entra"
   - "security"
-coverImage: "andy-kennedy-FO4CR0MnY_k-unsplash-scaled.jpg"
+image: "/assests/images/andy-kennedy-FO4CR0MnY_k-unsplash-scaled.jpg"
 ---
 
 In an [earlier post](https://janbakker.tech/register-yubikeys-on-behalf-of-your-users-with-microsoft-entra-id-fido2-provisioning-apis/), I showed several ways to (bulk) provision Yubikeys (or keys from other vendors) in Microsoft Entra using the provisioning APIs. In this post, we look at another gem from Yubico, [YubiEnroll](https://www.yubico.com/products/yubienroll/). This (CLI) tool is designed to delegate enrollment of Yubikeys to administrators or helpdesk staff. The good part is that it uses **delegated permissions** and respects **Admin Units**.

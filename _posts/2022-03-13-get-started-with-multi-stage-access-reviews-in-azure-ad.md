@@ -3,7 +3,7 @@ title: "Get started with multi-stage access reviews in Azure AD"
 date: 2022-03-13
 categories: 
   - "entra"
-coverImage: "pexels-thirdman-5684562.jpg"
+image: "/assests/images/pexels-thirdman-5684562.jpg"
 ---
 
 Access reviews, part of the Azure AD Identity Governance module, is a great feature to reduce the risk associated with stale access assignments. Administrators can use Azure Active Directory (Azure AD) to create access reviews for group members or application access.

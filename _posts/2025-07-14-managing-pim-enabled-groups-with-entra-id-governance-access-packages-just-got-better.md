@@ -3,7 +3,7 @@ title: "Managing PIM-enabled groups with Entra ID Governance Access Packages jus
 date: 2025-07-14
 categories: 
   - "entra"
-coverImage: "pexels-yankrukov-8197499-1.jpg"
+image: "/assests/images/pexels-yankrukov-8197499-1.jpg"
 ---
 
 Just a quick heads-up for those working a lot with Entra ID Governance: **Access Packages now supports eligible membership and ownership of PIM-enabled groups.** This might sound a bit confusing, as many moving parts and features are involved. Let me explain the new improvement.

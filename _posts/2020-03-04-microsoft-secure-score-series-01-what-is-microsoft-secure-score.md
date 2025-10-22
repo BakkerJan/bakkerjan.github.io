@@ -9,7 +9,7 @@ tags:
   - "office365"
   - "secure-score"
   - "security"
-coverImage: "image-1.png"
+image: "/assests/images/image-1.png"
 ---
 
 ## What is Microsoft Secure Score?

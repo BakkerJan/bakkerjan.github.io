@@ -4,7 +4,7 @@ date: 2024-04-13
 categories: 
   - "entra"
   - "security"
-coverImage: "e229b288-4985-4b1d-a80d-82f30426ec93.jpeg"
+image: "/assests/images/e229b288-4985-4b1d-a80d-82f30426ec93.jpeg"
 ---
 
 It's here! A long-awaited feature in Microsoft 365 is finally there. Now, in public preview, organizations can add another phishing-resistant credential to their arsenal: **device-bound passkeys.**

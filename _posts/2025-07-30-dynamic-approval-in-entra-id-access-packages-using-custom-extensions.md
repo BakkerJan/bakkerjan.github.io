@@ -1,7 +1,7 @@
 ---
 title: "Dynamic approval in Entra ID access packages using custom extensions"
 date: 2025-07-30
-coverImage: "DynamicApproval1-scaled.png"
+image: "/assests/images/DynamicApproval1-scaled.png"
 ---
 
 Microsoft Entra ID Governance Entitlement Management supports various **_static_** and **_dynamic_** approvers for access packages, such as users, groups, managers, and second-level managers. The approver configurations are all stored in the assignment policy of the Access Package, and already provide great flexibility.

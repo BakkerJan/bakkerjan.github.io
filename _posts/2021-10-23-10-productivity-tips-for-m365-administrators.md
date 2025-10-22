@@ -3,7 +3,7 @@ title: "10 productivity tips for M365 administrators"
 date: 2021-10-23
 categories: 
   - "entra"
-coverImage: "pexels-miguel-a-padrinan-1061133.jpg"
+image: "/assests/images/pexels-miguel-a-padrinan-1061133.jpg"
 ---
 
 I have worked with Microsoft 365 over the past few years, and every now and then you learn a new trick. When that moment comes, your work is a little more pleasant, easier, or more productive from that moment forward. I'd like to share some of that tips in no particular order.

@@ -9,7 +9,7 @@ tags:
   - "mfa"
   - "sspr"
   - "untrusted"
-coverImage: "msedge_H421Wlpg98.png"
+image: "/assests/images/msedge_H421Wlpg98.png"
 ---
 
 This article shows how you can block MFA and SSPR registrations from untrusted locations using Azure AD Conditional Acces.

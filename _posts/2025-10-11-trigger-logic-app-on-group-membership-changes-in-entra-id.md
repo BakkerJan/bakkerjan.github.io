@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "logic-apps"
   - "security"
-coverImage: "pexels-tima-miroshnichenko-6612229-scaled.jpg"
+image: "/assests/images/pexels-tima-miroshnichenko-6612229-scaled.jpg"
 ---
 
 A couple of years ago, I stumbled upon a neat Logic App / Power Automate connector that can respond to changes in group membership. [Act on group membership changes in Azure Active Directory - JanBakker.tech](https://janbakker.tech/act-on-group-membership-changes-in-azure-active-directory/)  

@@ -4,7 +4,7 @@ date: 2025-09-09
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-aburrell-195226.jpg"
+image: "/assests/images/pexels-aburrell-195226.jpg"
 ---
 
 In a [previous blog post](https://janbakker.tech/things-you-should-know-before-rolling-out-device-bound-passkeys-in-microsoft-authenticator-app/), I briefly touched on all the current caveats involved with passkeys in Entra ID. One of the most raised questions is around the **onboarding and recovery** of passkeys. So, in this blog post, we will dive deeper into the chicken-egg situation where you want to enforce passkeys for all resources, but none of your users have one registered. Here is where the "fun" begins.

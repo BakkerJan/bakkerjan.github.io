@@ -4,7 +4,7 @@ date: 2021-02-21
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-andrea-piacquadio-3769979.jpg"
+image: "/assests/images/pexels-andrea-piacquadio-3769979.jpg"
 ---
 
 This blog post is all about the new Temporary Access Pass in Azure Active Directory. At the time of writing, this feature is not officially announced, but the policy, settings, and API are now available. Time to dive in for some first experiences.

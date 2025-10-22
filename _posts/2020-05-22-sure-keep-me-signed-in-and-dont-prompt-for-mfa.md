@@ -11,7 +11,7 @@ tags:
   - "mfa"
   - "persistent"
   - "prompt"
-coverImage: "woman-wearing-purple-shirt-holding-smartphone-white-sitting-826349-scaled.jpg"
+image: "/assests/images/woman-wearing-purple-shirt-holding-smartphone-white-sitting-826349-scaled.jpg"
 ---
 
 Today a short blog about MFA prompts, session lifetime, and cookies. This will give you an idea of how you can tune the end-user experience and where to configure these settings.

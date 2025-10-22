@@ -18,7 +18,7 @@ tags:
   - "power-automate"
   - "power-platform"
   - "teams"
-coverImage: "man-in-brown-leather-jacket-using-binoculars-3811807-1.jpg"
+image: "/assests/images/man-in-brown-leather-jacket-using-binoculars-3811807-1.jpg"
 ---
 
 I guess we've all been there; you ran out of licenses in your Azure AD or Office 365 tenant. Despite you hang out in your admin portal every day, you were still taken by surprise when you discover an issue, caused by a license shortage. More often this is caused by the fact that the people who are responsible to buy these licenses, are not always IT admins. So it's easy to run out of licenses. Time to get this fixed.

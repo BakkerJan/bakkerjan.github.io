@@ -4,7 +4,7 @@ date: 2025-05-21
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-divinetechygirl-1181207-scaled.jpg"
+image: "/assests/images/pexels-divinetechygirl-1181207-scaled.jpg"
 ---
 
 **Disclaimer:** The main structure of this blog post is created by [Claude 3.7 Sonnet](https://www.anthropic.com/claude/sonnet). Together with [Lokka](https://lokka.dev/), I figured out all the supported operators by testing all examples against my demo tenant. Here's a snippet from my adventures:

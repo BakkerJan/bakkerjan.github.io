@@ -4,7 +4,7 @@ date: 2023-03-14
 categories: 
   - "entra"
   - "security"
-coverImage: "Design-1.png"
+image: "/assests/images/Design-1.png"
 ---
 
 Microsoft [released](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=122289) a new feature where the Outlook mobile app now has some of the Microsoft Authenticator App features onboard. Users can now enroll for Azure MFA using just their Outlook mobile app. No additional installation of the Microsoft Authenticator app is needed. This preview brings both push notifications and TOTP to the Outlook mobile app. Users are prompted for enrollment or can manually register their app to work with a Microsoft 365 account once this feature is enabled.

@@ -13,7 +13,7 @@ tags:
   - "portal"
   - "self-service"
   - "writeback"
-coverImage: "man-in-black-suit-covering-his-face-with-two-hands-3778964-scaled.jpg"
+image: "/assests/images/man-in-black-suit-covering-his-face-with-two-hands-3778964-scaled.jpg"
 ---
 
 ## Enable self-service password reset

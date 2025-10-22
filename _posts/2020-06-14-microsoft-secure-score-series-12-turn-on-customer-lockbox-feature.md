@@ -15,7 +15,7 @@ tags:
   - "request"
   - "secure-score"
   - "security"
-coverImage: "access-antique-bolt-close-277574-scaled.jpg"
+image: "/assests/images/access-antique-bolt-close-277574-scaled.jpg"
 ---
 
 ## Turn on customer lockbox feature

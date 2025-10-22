@@ -4,7 +4,7 @@ date: 2021-02-09
 categories: 
   - "entra"
   - "security"
-coverImage: "image-6-1.png"
+image: "/assests/images/image-6-1.png"
 ---
 
 Number matching and passwordless phone sign-in. I was used to it for a couple of months already because this feature was previously launched for personal Microsoft accounts like Outlook or Hotmail. It's now available (preview) in Azure AD to use with your work or school account.

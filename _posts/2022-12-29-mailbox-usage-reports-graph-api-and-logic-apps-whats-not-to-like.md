@@ -3,7 +3,7 @@ title: "Mailbox usage reports, Graph API, and Logic Apps. What's not to like?"
 date: 2022-12-29
 categories: 
   - "logic-apps"
-coverImage: "pexels-anna-nekrashevich-6801648-scaled.jpg"
+image: "/assests/images/pexels-anna-nekrashevich-6801648-scaled.jpg"
 ---
 
 Exchange Online does a pretty good job when it comes to alerting on mailbox storage. Exchange Online provides three kinds of notifications when a user's mailbox is nearing or at capacity:

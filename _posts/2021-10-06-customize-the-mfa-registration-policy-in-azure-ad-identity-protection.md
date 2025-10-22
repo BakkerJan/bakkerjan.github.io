@@ -4,7 +4,7 @@ date: 2021-10-06
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-tim-samuel-5835356.jpg"
+image: "/assests/images/pexels-tim-samuel-5835356.jpg"
 ---
 
 ```

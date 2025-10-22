@@ -10,7 +10,7 @@ tags:
   - "intune"
   - "mam"
   - "mdm"
-coverImage: "pexels-pixabay-207589-scaled.jpg"
+image: "/assests/images/pexels-pixabay-207589-scaled.jpg"
 ---
 
 Today a slightly different blog post. It's a common discussion that I face almost daily. Clients that embrace the "_anywhere, anytime, any device_" approach, and want to take control over their data. And that's not as easy as it sounds.

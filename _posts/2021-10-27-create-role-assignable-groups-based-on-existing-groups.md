@@ -4,7 +4,7 @@ date: 2021-10-27
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-andrea-piacquadio-3831873.jpg"
+image: "/assests/images/pexels-andrea-piacquadio-3831873.jpg"
 ---
 
 Today's post is about Role Assignable Groups. Are you new to this? Please check out [this post](https://janbakker.tech/role-assignable-groups-and-privileged-identity-management/) first. If you are already familiar with Role Assignable Groups, you might know, these types of groups have an immutable property " _isAssignableToRole_" that cannot be changed. Therefore, you cannot convert existing groups into Role Assignable Groups and vice versa. Role Assignable Groups do not support group nesting, and the group cannot be dynamic as well.

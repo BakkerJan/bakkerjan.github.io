@@ -15,7 +15,7 @@ tags:
   - "queries"
   - "teams"
   - "workspace"
-coverImage: "person-in-red-and-brown-jacket-holding-magnifying-glass-3965671-scaled.jpg"
+image: "/assests/images/person-in-red-and-brown-jacket-holding-magnifying-glass-3965671-scaled.jpg"
 ---
 
 In my [previous blog post](https://janbakker.tech/2020/04/19/activity-policy-templates-for-teams-in-microsoft-cloud-app-security/), I wrote about the new Teams activity policy templates in Cloud App Security. A great addition to easily keep an eye on your teams. Let's take a short look a the policies before we continue. The policies will create alerts when:

@@ -4,7 +4,7 @@ date: 2025-02-11
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-nikolay-ivanov-167131-547593.jpg"
+image: "/assests/images/pexels-nikolay-ivanov-167131-547593.jpg"
 ---
 
 Microsoft Entra ID Protection and Microsoft Entra Conditional Access work well together. If your organization owns an Entra Premium P2 license, you likely have risk-based policies configured. Good.

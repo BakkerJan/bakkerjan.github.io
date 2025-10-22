@@ -4,7 +4,7 @@ date: 2020-09-20
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-pixabay-257881-scaled.jpg"
+image: "/assests/images/pexels-pixabay-257881-scaled.jpg"
 ---
 
 It is not unlikely that some of your users still use Windows 7 on their home computers. Or any other outdated operating system (heaven forbid). Despite the warnings, news articles, and endless coffee chit chats about this subject, they still have the _\- "if it ain't broke, don't fix it"_ - mindset, and will eventually use it to access work resources as well.

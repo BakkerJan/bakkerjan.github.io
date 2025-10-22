@@ -12,7 +12,7 @@ tags:
   - "fido2"
   - "passwordless"
   - "pin"
-coverImage: "image-47.png"
+image: "/assests/images/image-47.png"
 ---
 
 ```

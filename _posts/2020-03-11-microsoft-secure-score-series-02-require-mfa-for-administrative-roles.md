@@ -10,7 +10,7 @@ tags:
   - "mfa"
   - "pim"
   - "secure-score"
-coverImage: "meter-at-0000-1364700-scaled.jpg"
+image: "/assests/images/meter-at-0000-1364700-scaled.jpg"
 ---
 
 ## Require MFA for administrative roles

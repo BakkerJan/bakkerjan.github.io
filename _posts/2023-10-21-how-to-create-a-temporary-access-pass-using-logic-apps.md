@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "logic-apps"
   - "security"
-coverImage: "ed61929b-cc4f-4f98-aab6-e8362ea26da7.jpeg"
+image: "/assests/images/ed61929b-cc4f-4f98-aab6-e8362ea26da7.jpeg"
 ---
 
 Now that more and more organizations are moving towards passwordless, a Temporary Access Pass becomes indispensable for onboarding and recovery. Using Logic Apps (or Power Automate), organizations can automate and integrate the creation of Temporary Access Passes in their current IT processes. Logic Apps can be triggered from customer service tools like ServiceNow or TOPdesk, to start fully automated workflows.

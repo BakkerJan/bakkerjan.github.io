@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "power-platform"
   - "security"
-coverImage: "1628535438.png"
+image: "/assests/images/1628535438.png"
 ---
 
 ## Part 3: Graph API and Graph Explorer

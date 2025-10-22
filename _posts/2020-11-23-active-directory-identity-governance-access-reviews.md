@@ -13,7 +13,7 @@ tags:
   - "premiump2"
   - "renew"
   - "roles"
-coverImage: "pexels-andrea-piacquadio-842921-scaled.jpg"
+image: "/assests/images/pexels-andrea-piacquadio-842921-scaled.jpg"
 ---
 
 In this series, we take a look at Azure Active Directory Identity Governance. This premium feature provides you with all the tools that you need to take and keep control over your (external) identities and access to roles, resources, applications, and groups. In short, Identity Governance gives you three ways to do this:

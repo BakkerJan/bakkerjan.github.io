@@ -11,7 +11,7 @@ tags:
   - "reverse-proxy"
   - "session-control"
   - "windows10"
-coverImage: "pexels-luis-quintero-2339722-scaled.jpg"
+image: "/assests/images/pexels-luis-quintero-2339722-scaled.jpg"
 ---
 
 When COVID-19 hit the world, most people had to work from home. I can imagine that a lot of organizations were not ready for this. So they might have ended up letting their employees working from their personal devices. In some way, this is what we always preached: _anywhere, anytime, and on any device._ But when you enable Bring Your Own Devices for Microsoft 365 services, there is a lot to think of.

@@ -10,7 +10,7 @@ tags:
   - "teams"
   - "win32"
   - "windows10"
-coverImage: "CustomBack-1-scaled.jpg"
+image: "/assests/images/CustomBack-1-scaled.jpg"
 ---
 
 ```

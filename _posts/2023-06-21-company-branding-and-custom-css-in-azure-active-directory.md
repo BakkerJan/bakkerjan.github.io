@@ -3,7 +3,7 @@ title: "Company branding and custom CSS in Azure Active Directory"
 date: 2023-06-21
 categories: 
   - "entra"
-coverImage: "msedge_50zG2Xq4m7.png"
+image: "/assests/images/msedge_50zG2Xq4m7.png"
 ---
 
 Company branding in Azure AD is a nice feature that allows administrators to prettify the sign-in experience for their end-users. It also comes with the possibility of ingesting custom CSS code.

@@ -5,7 +5,7 @@ categories:
   - "entra"
   - "power-platform"
   - "security"
-coverImage: "pexels-anna-shvets-5257496-1.jpg"
+image: "/assests/images/pexels-anna-shvets-5257496-1.jpg"
 ---
 
 I've done quite some Azure MFA implementations over the past few years, and none of them were the same. But one thing that was often the same is the way Azure MFA (or SSPR) was implemented: in **two** steps.

@@ -3,7 +3,7 @@ title: "Azure Active Directory Connect - Cloud Sync"
 date: 2021-03-20
 categories: 
   - "entra"
-coverImage: "pexels-omer-aydin-3472690.jpg"
+image: "/assests/images/pexels-omer-aydin-3472690.jpg"
 ---
 
 When organizations want to extend Active Directory to Azure Active Directory, AD Connect sync is the way to go. AD Connect sync is your go-to feature for all your hybrid workloads, such as identity, domain join, and Exchange.

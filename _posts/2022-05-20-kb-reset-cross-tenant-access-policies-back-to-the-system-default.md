@@ -3,7 +3,7 @@ title: "KB - Reset cross-tenant access policies back to the system default."
 date: 2022-05-20
 categories: 
   - "entra"
-coverImage: "jim-wilson-5QvsD0AaXPk-unsplash.jpg"
+image: "/assests/images/jim-wilson-5QvsD0AaXPk-unsplash.jpg"
 ---
 
 This is a knowledgebase item. Hope it helps you out someday.

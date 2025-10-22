@@ -3,7 +3,7 @@ title: "Power Automate: not your daddy's RSS reader"
 date: 2021-06-16
 categories: 
   - "power-platform"
-coverImage: "pexels-rene-asmussen-25758-1.jpg"
+image: "/assests/images/pexels-rene-asmussen-25758-1.jpg"
 ---
 
 Here's a quick tip for all you eager learners out there. If you don't want to miss any new articles from your favorite website, consider using Power Automate to keep up to date.

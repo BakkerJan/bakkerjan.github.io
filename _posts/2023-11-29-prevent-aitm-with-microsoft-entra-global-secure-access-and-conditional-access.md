@@ -4,7 +4,7 @@ date: 2023-11-29
 categories: 
   - "entra"
   - "security"
-coverImage: "Secure-Your-Network-with-Entra.jpeg"
+image: "/assests/images/Secure-Your-Network-with-Entra.jpeg"
 ---
 
 Microsoft Entra Global Secure Access brings a new control to Conditional Access. By installing the Global Secure Access Client on (hybrid) Entra joined devices and enabling Global Secure Access signaling for Conditional Access, admins can now work with a new condition: **_All Compliant Network locations (Preview)_**

@@ -14,7 +14,7 @@ tags:
   - "windows10"
   - "wsus"
   - "wufb"
-coverImage: "Analytics.png"
+image: "/assests/images/Analytics.png"
 ---
 
 Since the introduction of the "Modern Workspace," a lot is changed when we talk about updates. Let's face it: staying current with Windows 10 is hard. But not as hard as, for example, maintaining Windows 7. Because back then we didn't have Windows Update for Business. Luckily for you, now we have! Let's dive in.

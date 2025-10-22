@@ -4,7 +4,7 @@ date: 2022-05-15
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-pixabay-272267-scaled.jpg"
+image: "/assests/images/pexels-pixabay-272267-scaled.jpg"
 ---
 
 Privileged Identity Management is a great feature within Azure AD to provide just-in-time access to your admin roles and Azure resources. But some roles may require an extra level of security, for the simple fact the role is highly privileged, and (hopefully) rarely used.

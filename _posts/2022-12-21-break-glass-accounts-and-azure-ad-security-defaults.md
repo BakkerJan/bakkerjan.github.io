@@ -4,7 +4,7 @@ date: 2022-12-21
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-miguel-a-padrinan-2882506-scaled.jpg"
+image: "/assests/images/pexels-miguel-a-padrinan-2882506-scaled.jpg"
 ---
 
 Security Defaults is the best thing since sliced bread. I mean, come on! It will enforce MFA for everybody, will block that dirty legacy authentication, and even gives you features that you normally would pay big money for (Azure AD Identity Security). Good enough for a lot of (smaller) organizations out there. Today's post is about that feature and the use of break-glass accounts. For a lot of folks, this post might be obvious, as this is their daily job as a consultant, but I learned that the vast majority of small businesses (and even big ones!) have no clue how this stuff works and where to start. This post is for them.

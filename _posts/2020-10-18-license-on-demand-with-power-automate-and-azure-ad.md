@@ -11,7 +11,7 @@ tags:
   - "office365"
   - "power-automate"
   - "self-service"
-coverImage: "pexels-gustavo-fring-4173321.jpg"
+image: "/assests/images/pexels-gustavo-fring-4173321.jpg"
 ---
 
 Most organizations are using [group-based](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-licensing-whatis-azure-portal) licensing in Azure Active Directory. This is often integrated with the onboarding process of the users. But there are some use cases where you have some non-standard licenses attached to your tenant that you hand out on demand. You could still use group-based licensing, but users are added manually to the group.

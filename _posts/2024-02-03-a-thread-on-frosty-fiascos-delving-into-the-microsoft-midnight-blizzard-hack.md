@@ -4,7 +4,7 @@ date: 2024-02-03
 categories: 
   - "entra"
   - "security"
-coverImage: "52ebccc7-a9e6-4546-85c4-5cd300355a04.jpeg"
+image: "/assests/images/52ebccc7-a9e6-4546-85c4-5cd300355a04.jpeg"
 ---
 
 This post is all about the hack on Microsoft by Midnight Blizzard (NOBELIUM, Cozy Bear, APT29)  

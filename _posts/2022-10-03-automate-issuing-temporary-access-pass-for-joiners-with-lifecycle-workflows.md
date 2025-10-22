@@ -4,7 +4,7 @@ date: 2022-10-03
 categories: 
   - "entra"
   - "logic-apps"
-coverImage: "pexels-ketut-subiyanto-4559596-scaled.jpg"
+image: "/assests/images/pexels-ketut-subiyanto-4559596-scaled.jpg"
 ---
 
 On September 30th, 2022, [Pim Jacobs](https://twitter.com/pimjacobs89) and I did a session on the brand new Lifecycle Workflows feature in Azure AD Identity Governance. During that session, I did a demo showing the integration with Logic Apps. Using this extension, I could use the Graph API to create a new Temporary Access Pass for a new hire, 7 days before the first workday. This post will describe the steps to build the solution.

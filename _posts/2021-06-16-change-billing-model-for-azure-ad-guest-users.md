@@ -3,7 +3,7 @@ title: "Change billing model for Azure AD guest users"
 date: 2021-06-16
 categories: 
   - "entra"
-coverImage: "pexels-suzy-hazelwood-4056856-scaled.jpg"
+image: "/assests/images/pexels-suzy-hazelwood-4056856-scaled.jpg"
 ---
 
 Back in 2020, Microsoft [announced](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-active-directory-external-identities-goes-premium-with/ba-p/1604572) a change in the pricing model for External Identities. The change is mentioned in this blog post, but it did not get that much attention if you ask me. So, to make you all aware, let's see whats this change is all about, and how your organization can benefit from this.

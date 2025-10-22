@@ -4,7 +4,7 @@ date: 2021-04-04
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-alexander-suhorucov-6457540.jpg"
+image: "/assests/images/pexels-alexander-suhorucov-6457540.jpg"
 ---
 
 Today we take a look at a new feature in Azure Active Directory that brings more granularity to the MFA requirement for device registration and Azure AD domain join. Up until now this was a tenant-wide setting and could be either set on or off. Because this setting was having some caveats and causing some inconvenience for end-users, this setting was mostly disabled, despite the fact that this is not the recommended option.

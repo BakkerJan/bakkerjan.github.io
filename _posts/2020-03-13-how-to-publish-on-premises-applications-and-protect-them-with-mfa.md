@@ -10,7 +10,7 @@ tags:
   - "mfa"
   - "remote"
   - "web-application"
-coverImage: "msedge_cFu0KscQNA.png"
+image: "/assests/images/msedge_cFu0KscQNA.png"
 ---
 
 Using Azure Application Proxy you can publish your on-premises web applications in a secure way. Combining this with Conditional Access, you can configure MFA for example. Now Coronavirus is hitting us hard, you might have to take a look at this feature.

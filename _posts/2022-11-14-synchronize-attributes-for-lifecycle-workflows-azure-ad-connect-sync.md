@@ -3,7 +3,7 @@ title: "Synchronize attributes for Lifecycle workflows - Azure AD Connect Sync"
 date: 2022-11-14
 categories: 
   - "entra"
-coverImage: "pexels-erik-mclean-7205475-scaled.jpg"
+image: "/assests/images/pexels-erik-mclean-7205475-scaled.jpg"
 ---
 
 Azure AD Lifecycle Workflows can be used to automate the Joiner-Mover-Leaver process for your users. Previously, I wrote about a use case where you can use LCW to automate the issuing of a Temporary Access Pass for new joiners. [Automate issuing Temporary Access Pass for joiners with LifeCycle Workflows - JanBakker.tech](https://janbakker.tech/automate-issuing-temporary-access-pass-for-joiners-with-lifecycle-workflows/) There are still a lot of organizations that use hybrid identities, so today, we will talk about the prerequisites for using LCW in a hybrid environment using Azure AD Connect Sync.  

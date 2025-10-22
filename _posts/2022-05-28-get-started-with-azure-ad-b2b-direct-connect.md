@@ -3,7 +3,7 @@ title: "Get started with Azure AD B2B direct connect"
 date: 2022-05-28
 categories: 
   - "entra"
-coverImage: "pexels-pixabay-272254.jpg"
+image: "/assests/images/pexels-pixabay-272254.jpg"
 ---
 
 We all love seamless collaboration, right? Well, here's a new feature that might improve that experience. Today, we will talk about Azure AD's cross-tenant access settings, and in particular, about Azure AD B2B direct connect.

@@ -4,7 +4,7 @@ date: 2023-05-04
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-dmitriy-ganin-7537821-scaled.jpg"
+image: "/assests/images/pexels-dmitriy-ganin-7537821-scaled.jpg"
 ---
 
 A new feature popped up in Azure AD. Well, not entirely new, I must say. Reading from the [docs](https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#report-suspicious-activity), Report Suspicious Activity is an enhancement of the Fraud Alert feature that has existed for quite some time.

@@ -4,7 +4,7 @@ date: 2024-09-17
 categories: 
   - "entra"
   - "security"
-coverImage: "andy-kennedy-FO4CR0MnY_k-unsplash-scaled.jpg"
+image: "/assests/images/andy-kennedy-FO4CR0MnY_k-unsplash-scaled.jpg"
 ---
 
 Microsoft recently announced their new FIDO2 provisioning APIs within Microsoft Entra ID. While users can register their FIDO2 keys fairly easily with a Temporary Access Pass, the new API allows admins to register keys on behalf of a user. This can be extremely handy in onboarding scenarios or in case a new key needs to be shipped to a vendor or contract worker.

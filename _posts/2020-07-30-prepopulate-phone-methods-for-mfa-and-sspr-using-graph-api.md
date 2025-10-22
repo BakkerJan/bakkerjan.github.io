@@ -12,7 +12,7 @@ tags:
   - "mfa"
   - "power-automate"
   - "sspr"
-coverImage: "vintage-technology-calling-numbers-105003.jpg"
+image: "/assests/images/vintage-technology-calling-numbers-105003.jpg"
 ---
 
 * * *

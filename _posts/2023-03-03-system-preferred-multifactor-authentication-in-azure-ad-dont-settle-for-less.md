@@ -4,7 +4,7 @@ date: 2023-03-03
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-ketut-subiyanto-4247721-scaled.jpg"
+image: "/assests/images/pexels-ketut-subiyanto-4247721-scaled.jpg"
 ---
 
 A new feature has popped up in Azure AD: **System-preferred multifactor authentication (MFA)**. This will allow administrators to enforce the most secure method for Azure MFA. For example, if a user has multiple methods registered, the most secure method will be prompted first. How do I know what method is the strongest, you may ask? Here is the current order from most to least secure methods, currently supported in Azure Active Directory:

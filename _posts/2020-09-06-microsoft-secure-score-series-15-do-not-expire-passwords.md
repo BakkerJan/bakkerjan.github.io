@@ -12,7 +12,7 @@ tags:
   - "passwords"
   - "secure-score"
   - "security"
-coverImage: "pexels-andrea-piacquadio-3755755-scaled.jpg"
+image: "/assests/images/pexels-andrea-piacquadio-3755755-scaled.jpg"
 ---
 
 ## Do not expire passwords

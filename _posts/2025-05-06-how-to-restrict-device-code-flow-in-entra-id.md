@@ -4,7 +4,7 @@ date: 2025-05-06
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-punttim-52608.jpg"
+image: "/assests/images/pexels-punttim-52608.jpg"
 ---
 
 For good reasons, device code flow in Entra ID is getting a lot of attention. Attackers heavily use it to get access to Microsoft 365 accounts and data. Device code phishing is very effective, as phishing-resistant MFA, like passkeys, are not helping here. The victim will simply hand over an access token to the attacker. The attacker does not care how authentication is being done.

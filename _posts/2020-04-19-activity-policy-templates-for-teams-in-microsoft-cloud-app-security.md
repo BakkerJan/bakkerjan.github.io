@@ -11,7 +11,7 @@ tags:
   - "policy-templates"
   - "security"
   - "teams"
-coverImage: "image-30.png"
+image: "/assests/images/image-30.png"
 ---
 
 The usage of Teams is massively increased over the past weeks. The numbers of people using Teams nowadays are insane. Organizations rapidly enrolled Teams to their users. But what about security? Time to take a look at security and governance. But where do you start?

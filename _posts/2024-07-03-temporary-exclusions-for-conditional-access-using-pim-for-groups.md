@@ -4,7 +4,7 @@ date: 2024-07-03
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-jeshoots-com-147458-714701-scaled.jpg"
+image: "/assests/images/pexels-jeshoots-com-147458-714701-scaled.jpg"
 ---
 
 Conditional Access include and exclude groups cannot be messed with. As we have seen in a [previous blog post](https://janbakker.tech/prevent-conditional-access-bypass-with-restricted-management-administrative-units-in-entra-id/), this will impact your security posture. But what if you need to create a legitimate escape for operational purposes? Take this use case, for example:

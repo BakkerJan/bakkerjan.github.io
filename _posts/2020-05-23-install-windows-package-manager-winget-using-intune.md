@@ -10,7 +10,7 @@ tags:
   - "lob"
   - "windows10"
   - "winget"
-coverImage: "vmconnect_qPnLN1LhQw-1.png"
+image: "/assests/images/vmconnect_qPnLN1LhQw-1.png"
 ---
 
 Microsoft released a preview of the Windows Package Manager. I'm not going into detail about the product itself, because there are a lot of (better) alternatives for this already in the market. Today, we focus on how to get this tool installed on your endpoints, so you can use it for your software distribution. In this approach I use the APPX package. Normally I would use the Business Store for this, that version does not (yet) contain the winget feature.

@@ -3,7 +3,7 @@ title: "Speaking at Global Automation Bootcamp 2021"
 date: 2021-02-06
 categories: 
   - "speaking"
-coverImage: "ezgif-7-5c1a486bbc03.jpg"
+image: "/assests/images/ezgif-7-5c1a486bbc03.jpg"
 ---
 
 ![Global Automation Bootcamp 2021 Conference](/assets/images/Global-Automation-Bootcamp-2021-Conference.jpg)

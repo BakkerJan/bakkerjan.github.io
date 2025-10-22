@@ -4,7 +4,7 @@ date: 2025-07-04
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-mkvisuals-2781195-1.jpg"
+image: "/assests/images/pexels-mkvisuals-2781195-1.jpg"
 ---
 
 This is a knowledge base item. Hope it will help you someday.

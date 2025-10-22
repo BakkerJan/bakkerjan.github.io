@@ -14,7 +14,7 @@ tags:
   - "logic-app"
   - "power-automate"
   - "risky-users"
-coverImage: "iStock-1155623694.jpg"
+image: "/assests/images/iStock-1155623694.jpg"
 ---
 
 ```

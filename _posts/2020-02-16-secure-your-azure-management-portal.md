@@ -10,7 +10,7 @@ tags:
   - "portal"
   - "secure"
   - "timeout"
-coverImage: "msedge_ArRja1UadG-e1581886836824.png"
+image: "/assests/images/msedge_ArRja1UadG-e1581886836824.png"
 ---
 
 Today a quick tip to secure your Azure Management Portal. By default, the inactivity timeout of the Azure Management portal is set to _'Never'_. From a security perspective, this is far from ideal. This small setting can be easily overlooked. It's a good idea to configure this for your tenant.

@@ -4,7 +4,7 @@ date: 2023-07-11
 categories: 
   - "entra"
   - "security"
-coverImage: "image-6.png"
+image: "/assests/images/image-6.png"
 ---
 
 This post is all about setting the preferred multi-factor authentication method using Graph API. We already know the [system-preferred multi-factor authentication method](https://janbakker.tech/system-preferred-multifactor-authentication-in-azure-ad-dont-settle-for-less/), where Microsoft Entra ID will use the strongest method of all the registered methods, but this time we take a look a the default method set by the user.

@@ -4,7 +4,7 @@ date: 2022-06-30
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-lucas-fonseca-2239655-scaled.jpg"
+image: "/assests/images/pexels-lucas-fonseca-2239655-scaled.jpg"
 ---
 
 Microsoft released [a new public preview](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new#public-preview---roles-are-being-assigned-outside-of-privileged-identity-management) where admins can be alerted when assignments to Azure resources are made outside of Privileged Identity Management.

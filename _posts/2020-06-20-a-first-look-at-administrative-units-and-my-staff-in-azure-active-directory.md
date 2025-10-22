@@ -16,7 +16,7 @@ tags:
   - "reset"
   - "roles"
   - "tickets"
-coverImage: "amazed-formal-male-looking-at-laptop-screen-3760809-scaled.jpg"
+image: "/assests/images/amazed-formal-male-looking-at-laptop-screen-3760809-scaled.jpg"
 ---
 
 Recently, Microsoft introduced [Administrative Units](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-administrative-units) in Azure Active Directory. At the time of writing, this feature is in preview. Today we take a first look at how this is going to help organizations managing users and groups in Azure Active Directory. But to understand why this feature is such a big deal, we need to know what the difference is between the "classic" Active Directory and the "modern" Azure Active Directory structure.

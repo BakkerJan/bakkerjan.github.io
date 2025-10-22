@@ -4,7 +4,7 @@ date: 2022-08-16
 categories: 
   - "entra"
   - "intune"
-coverImage: "pexels-ron-lach-10473517-scaled.jpg"
+image: "/assests/images/pexels-ron-lach-10473517-scaled.jpg"
 ---
 
 This post is mainly focused on a new tenant setting, where you can prevent your end-users from viewing their Bitlocker keys. By design, your users can see Bitlocker keys from devices they own from the MyAccount portal. [My Account (microsoft.com)](https://myaccount.microsoft.com/device-list)

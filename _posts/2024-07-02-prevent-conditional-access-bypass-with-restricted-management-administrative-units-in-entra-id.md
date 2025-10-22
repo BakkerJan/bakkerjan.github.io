@@ -4,7 +4,7 @@ date: 2024-07-02
 categories: 
   - "entra"
   - "security"
-coverImage: "pexels-matthiaszomer-845265-scaled.jpg"
+image: "/assests/images/pexels-matthiaszomer-845265-scaled.jpg"
 ---
 
 Bypassing Conditional Access is easy. That's because _most_ Conditional Access policies rely on Entra ID Security Groups. Since Entra ID is very "flat" by default, every admin with [group management permissions](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#groups-administrator) can add or remove members to **ANY** group.  
