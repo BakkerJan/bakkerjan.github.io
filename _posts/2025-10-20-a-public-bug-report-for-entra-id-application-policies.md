@@ -4,9 +4,7 @@ date: 2025-10-20
 categories: 
   - "entra"
   - "security"
-image:
-  path:  /images/pexels-ekamelev-1126775.jpg
-  alt: "Test"
+coverImage: "pexels-ekamelev-1126775.jpg"
 ---
 
 I've spent the last couple of nights trying out this new feature in Entra ID: application policies. I've already written two ([1](https://janbakker.tech/no-your-nhis-cant-use-passwords-either/),[2](https://janbakker.tech/a-closer-look-at-entra-application-policies-to-govern-secrets-and-certificates/)) blogposts about it, but just when I thought I was done, here's another finding that really blows my mind. Hear me out.
@@ -24,36 +22,36 @@ By excluding the user or app, it will be assigned with one of the attributes. Wo
 
 Now, here is the issue. The docs says that the security attribute defenition should be created as of type **string**.
 
-![](/images/image-53.png)
+![](images/image-53.png)
 
 Guess what is created? The data type is of type boolean instead!
 
-![](/images/image-54-scaled.png)
+![](images/image-54-scaled.png)
 
 Now, I have tried to change it myself, but these attributes, being **security** attributes, some properties are immutable, so I could not change it.
 
-![](/images/image-61.png)
+![](images/image-61.png)
 
 I could instead deactive the old one, and created a new one.
 
-![](/images/image-57-scaled.png)
+![](images/image-57-scaled.png)
 
   
 Then I updated my default tenant policy.
 
-![](/images/image-58-scaled.png)
+![](images/image-58-scaled.png)
 
 Assigned my new attribute to my managed identity.....
 
-![](/images/image-59-scaled.png)
+![](images/image-59-scaled.png)
 
 And it started working right away! Victory at last.
 
-![](/images/image-56-scaled.png)
+![](images/image-56-scaled.png)
 
 Now, to make the chaos complete, let's update my policy through the UI (adding another excluded caller). As I learned this should check if the security attribute set exist and try to assign the attribute. It did exaclty that, but then it choked... This makes sense, as the attributes are inactive.
 
-![](/images/image-60-scaled.png)
+![](images/image-60-scaled.png)
 
 ## Let's wrap up
 
