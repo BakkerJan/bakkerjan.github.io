@@ -14,17 +14,17 @@ Today, I'd like to give it some more love, since this is a very powerful, but un
 
 I'm talking about the [Office 365 Groups connector](https://learn.microsoft.com/en-us/connectors/office365groups/). Don't let the name fool you. It also supports Entra security groups! _(Microsoft Entra ID groups with the attribute "isAssignableToRole" are not supported for now)_
 
-![](images/image-21.png)
+![](/assets/images/image-21.png)
 
 The other good thing? It supports **managed identities**!
 
-![](images/image-22.png)
+![](/assets/images/image-22.png)
 
 So, imagine you have a use case where you want to trigger a Logic App when a user is added to a specific group. Let's build that.
 
 First, create a new Logic app and add a system-assigned managed identity to it.
 
-![](images/image-23.png)
+![](/assets/images/image-23.png)
 
 Next, we need to grant the managed identity read permissions to group membership changes. For that, we need to add at least **GroupMember.Read.All** Graph API application permissions to the managed identity.
 
@@ -32,21 +32,21 @@ See [Graph API: Minimal permissions to read user group membership - merill.net](
 
 As usual, I'll ask [Lokka](https://lokka.dev) to do that for me.
 
-![](images/image-24.png)
+![](/assets/images/image-24.png)
 
 Let's check if the permissions were set correctly.
 
-![](images/image-25.png)
+![](/assets/images/image-25.png)
 
 With the permissions set, let's design the Logic App. (can take up to 10 minutes before the permissions are replicated)
 
 I'd like to start adding a parameter for the groupID, but that's optional. Here, we define the group we want to act on.
 
-![](images/image-26.png)
+![](/assets/images/image-26.png)
 
 Start by adding the groupID, and set the interval.
 
-![](images/image-27.png)
+![](/assets/images/image-27.png)
 
 Let's now add a new user to the group and see if it's picked up by the Logic App.
 
@@ -73,7 +73,7 @@ When a user is deleted from the group, the body looks like this:
 
 In both events, the body contains the userID from the affected user, which you can easily pick up for your logic.
 
-![](images/image-29.png)
+![](/assets/images/image-29.png)
 
 ## Trigger Conditions
 
@@ -91,15 +91,15 @@ Only trigger for **deleted** user:
 @not(empty(triggerBody()?['@removed']))
 ```
 
-![](images/image-30.png)
+![](/assets/images/image-30.png)
 
 This will give you full control over the events.
 
-![](images/image-31.png)
+![](/assets/images/image-31.png)
 
 When neither users are added nor removed, the Logic App will be skipped by default
 
-![](images/image-32.png)
+![](/assets/images/image-32.png)
 
 ## Let's wrap up
 

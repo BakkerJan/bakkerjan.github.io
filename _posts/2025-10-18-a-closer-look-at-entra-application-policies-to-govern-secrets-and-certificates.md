@@ -15,7 +15,7 @@ I was hoping this would change now that the new interface is available. However,
 
 Where the API is very distinctive between app registrations and service principals, the policy in the Entra admin center will set both at the same time.
 
-![](images/image-33-scaled.png)
+![](/assets/images/image-33-scaled.png)
 
 If you want to be specific, you need to use the Graph API instead. [Update tenantAppManagementPolicy - Microsoft Graph beta | Microsoft Learn](https://learn.microsoft.com/en-us/graph/api/tenantappmanagementpolicy-update?view=graph-rest-beta&tabs=http)
 
@@ -23,11 +23,11 @@ If you want to be specific, you need to use the Graph API instead. [Update tenan
 
 When you set the policy to block password addition, for example, these settings only apply to **_new_** secrets. All existing secrets remain active and valid.
 
-![](images/image-36-scaled.png)
+![](/assets/images/image-36-scaled.png)
 
 You can apply the policy more fine-grainedly, only to include apps created after a specific date. That can help minimize the impact and give you time to inform your developers and admins of the new policies. First, **stop the bleeding**; then eliminate the existing secrets.
 
-![](images/image-37.png)
+![](/assets/images/image-37.png)
 
 ## Fact 3. Auto-created policies are a big part of this feature
 
@@ -45,7 +45,7 @@ There are two types of policy controls:
 
 - App (application or service principal) management policies that allow individual applications to be included or excluded from the tenant default policy.
 
-![](images/image-39.png)
+![](/assets/images/image-39.png)
 
 To see what really happens in the background, you can use Graph Explorer to check out both the tenant default policy and the app management policies that are auto-generated, based on your configuration.
 
@@ -55,7 +55,7 @@ Let's say you have blocked the creation of secrets for two apps only. When calli
 GET https://graph.microsoft.com/beta/policies/appManagementPolicies/
 ```
 
-![](images/image-40-scaled.png)
+![](/assets/images/image-40-scaled.png)
 
 You can dig deeper by getting the ID of the policy and seeing what apps are assigned to this policy.
 
@@ -63,7 +63,7 @@ You can dig deeper by getting the ID of the policy and seeing what apps are assi
 GET https://graph.microsoft.com/beta/policies/appManagementPolicies/94bce6cc-4be6-4331-9c5d-1e562a76704e/appliesTo?$select=displayName,servicePrincipalType
 ```
 
-![](images/image-38-scaled.png)
+![](/assets/images/image-38-scaled.png)
 
 ## Fact 4. Auto-created policies will be deleted when no longer in use
 
@@ -71,21 +71,21 @@ Auto-created policies that have no assignments will be cleaned up automatically.
 
 Let's delete the two apps from the previous policy, and you'll see that the custom policies are deleted right away. Adding them again will just create a _**new**_ policy. So keep that in mind.
 
-![](images/image-41-scaled.png)
+![](/assets/images/image-41-scaled.png)
 
 ## Fact 5. Configuring Excluded Actors will create a custom security attribute set
 
 You can configure so-called excluded callers/actors that are allowed to bypass the policy. This approach allows you to enforce the policy while excluding your current automated solutions or admins from creating secrets, thereby supporting your current needs. Spoiler alert: I couldn't get this to work.
 
-![](images/image-43.png)
+![](/assets/images/image-43.png)
 
 When you configure your first excluded caller, a new attribute set is created.
 
-![](images/image-42-scaled.png)
+![](/assets/images/image-42-scaled.png)
 
 The attribute is then assigned to the excluded user or app.
 
-![](images/image-44.png)
+![](/assets/images/image-44.png)
 
 #### Fact 5.1 I have no idea how this works.
 
@@ -95,7 +95,7 @@ This is how it should work according to the [docs](https://learn.microsoft.com/e
 
 _"Collection of custom security attribute exemptions. If an actor user or service principal has the custom security attribute defined in this section, they're exempted from the restriction. This means that calls the user or service principal makes to create or update apps are exempt from this policy enforcement."_
 
-![](images/image-45-scaled.png)
+![](/assets/images/image-45-scaled.png)
 
 If I'm holding it wrong, please tell me so I can update this post. **Update**: [Found it!](https://janbakker.tech/a-public-bug-report-for-entra-id-application-policies/)
 
@@ -107,7 +107,7 @@ I wondered what would happen if I applied two policies to the same app with cont
 
 - Keep it simple. Only use in complex scenarios.
 
-![](images/image-46.png)
+![](/assets/images/image-46.png)
 
 ## Fact 7. The interface can be confusing sometimes. Don't let it fool ya.
 
@@ -117,23 +117,23 @@ There are basically two ways to exclude an app from creating secrets. Both give 
 
 When you exclude an app from the **Block password addition**, it is allowed to create secrets, and respects the maximum lifetime that you've set in the **Restrict max password lifetime policy**. (default tenant policy)
 
-![](images/image-47.png)
+![](/assets/images/image-47.png)
 
 So, when I try to add a secret, this is what the UI looks like. It does not tell me the policy until I try to create the secret.
 
-![](images/image-49-scaled.png)
+![](/assets/images/image-49-scaled.png)
 
 This is when I learn that the policy is in place, but it does not tell me what the maximum lifetime is.
 
-![](images/image-48.png)
+![](/assets/images/image-48.png)
 
 Now let's exclude an app from the **Restrict max password lifetime policy** directly. I will set a custom lifetime to this app as well.
 
-![](images/image-50.png)
+![](/assets/images/image-50.png)
 
 Now look at the experience in the browser!
 
-![](images/image-52-scaled.png)
+![](/assets/images/image-52-scaled.png)
 
 This time, it will tell me the maximum lifetime, and it greys out the other options, which is a better user experience if you ask me.
 
@@ -141,7 +141,7 @@ Two lessons I want to share here:
 
 - Setting the exact days will not always reflect in the browser. Why? 90 days are not exactly 3 months. 180 days is not the same as 6 months. So, to fix that, I use values like 92 and 183 to make it work.
 
-![](images/1758562059036.jpg)
+![](/assets/images/1758562059036.jpg)
 
 - When switching between two apps with different exclusions, the UI will cache some of these components, so it will show the wrong information. I only realized after hours and hours of troubleshooting why my policies did not work.
 

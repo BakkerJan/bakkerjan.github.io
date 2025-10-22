@@ -17,9 +17,9 @@ _Unable to verify domain name. Ensure you have added the record above at the reg
 
 Failed to verify domain name 'yourdomain.com'
 
-![](images/image-16.png)
+![](/assets/images/image-16.png)
 
-![](images/image-17.png)
+![](/assets/images/image-17.png)
 
 ## The solution
 
@@ -27,11 +27,11 @@ Now, assuming you've added the correct DNS record (which can be tricky sometimes
 
 Try verifying the domain again, but now with your browser **developer tools** running. Make sure it records network events, which includes API calls.
 
-![](images/image-18.png)
+![](/assets/images/image-18.png)
 
 Now, explore the response of that API call, and it will tell you the exact reason why verification failed.
 
-![](images/image-20-scaled.png)
+![](/assets/images/image-20-scaled.png)
 
 If you see something like this:
 
@@ -43,13 +43,13 @@ Reach out to your DNS registar for help, because you either did not add the reco
 
 In my case, my domain was already added to another tenant.
 
-![](images/image-3.png)
+![](/assets/images/image-3.png)
 
 If this is the case, you probably want to find out in wich tenant your domain is registered. That can be done using this website:
 
 [Find your Microsoft Azure and Office 365 tenant ID - What is my tenant ID?](https://www.whatismytenantid.com/)
 
-![](images/image.png)
+![](/assets/images/image.png)
 
 Hope that helps!
 
